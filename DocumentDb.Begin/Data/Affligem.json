@@ -1,0 +1,14 @@
+﻿{
+    "id": "Affligem",
+    "location": "Belgium",
+    "beers": [
+        {
+            "name": "Postel Blond",
+            "level": 7
+        },
+        {
+            "name": "Affligem Tripel",
+            "level": 9.5
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+﻿{
+    "id": "Diebels",
+    "location": "Germany",
+    "beers": [
+        {
+            "name": "Diebels Pils",
+            "level": 4.9
+        }
+    ]
+}
